@@ -6,7 +6,6 @@ I am learning both IT & Business
 
 Skills: Java / MySQL / Project management 
 
-- 🔭 I’m currently working on this page. 
 
 
 
